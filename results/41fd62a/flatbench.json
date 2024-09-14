@@ -1,0 +1,462 @@
+{
+  "mean": {
+    "json": {
+      "write_f32_dtoa": 461378.35801390256,
+      "write_f32_fmt": 719307.7124627023,
+      "write_f32_lexical": 189635.99719726352,
+      "write_f32_ryu": 190450.7879288966,
+      "write_f64_dtoa": 577820.7197955393,
+      "write_f64_fmt": 878496.9313095256,
+      "write_f64_lexical": 218918.2442860449,
+      "write_f64_ryu": 220527.51820458708
+    },
+    "random_big_ints": {
+      "write_f32_dtoa": 677.4802203337779,
+      "write_f32_fmt": 6933.659062453807,
+      "write_f32_lexical": 687.2857232017188,
+      "write_f32_ryu": 7956.051716032546,
+      "write_f64_dtoa": 32095.5771650209,
+      "write_f64_fmt": 54116.72829946865,
+      "write_f64_lexical": 11793.966549609258,
+      "write_f64_ryu": 12875.248509338084
+    },
+    "random_big_int_dot_int": {
+      "write_f32_dtoa": 19007.47627620764,
+      "write_f32_fmt": 51083.63547119116,
+      "write_f32_lexical": 7533.102641032337,
+      "write_f32_ryu": 8534.952379419321,
+      "write_f64_dtoa": 28207.182157218158,
+      "write_f64_fmt": 52919.37667063628,
+      "write_f64_lexical": 12500.831208790343,
+      "write_f64_ryu": 13277.605803617673
+    },
+    "random_one_over_rand32": {
+      "write_f32_dtoa": 18794.57452967312,
+      "write_f32_fmt": 42798.12983940262,
+      "write_f32_lexical": 7831.019773264651,
+      "write_f32_ryu": 8015.399598761854,
+      "write_f64_dtoa": 30730.16435527314,
+      "write_f64_fmt": 48872.78939834361,
+      "write_f64_lexical": 11804.756104689168,
+      "write_f64_ryu": 13312.297264839433
+    },
+    "random_simple_int32": {
+      "write_f32_dtoa": 19247.469693610765,
+      "write_f32_fmt": 51601.69987781405,
+      "write_f32_lexical": 7550.074716599903,
+      "write_f32_ryu": 8610.091837168335,
+      "write_f64_dtoa": 21900.597930871583,
+      "write_f64_fmt": 45253.377181618,
+      "write_f64_lexical": 9814.26899972984,
+      "write_f64_ryu": 24440.294339373937
+    },
+    "random_simple_int64": {
+      "write_f32_dtoa": 21514.836337094963,
+      "write_f32_fmt": 51257.304468608585,
+      "write_f32_lexical": 7825.497139859009,
+      "write_f32_ryu": 7774.32956314745,
+      "write_f64_dtoa": 30697.730584103392,
+      "write_f64_fmt": 54250.44154326708,
+      "write_f64_lexical": 11694.502853415885,
+      "write_f64_ryu": 14146.608414549744
+    },
+    "random_simple_uniform32": {
+      "write_f32_dtoa": 18843.560469469434,
+      "write_f32_fmt": 42324.43258991521,
+      "write_f32_lexical": 7876.017037050151,
+      "write_f32_ryu": 7984.705142776885,
+      "write_f64_dtoa": 28297.556745623075,
+      "write_f64_fmt": 48500.10895318673,
+      "write_f64_lexical": 11525.64341481242,
+      "write_f64_ryu": 12097.282515498211
+    },
+    "random_special": {
+      "write_f32_dtoa": 18497.167045938037,
+      "write_f32_fmt": 52647.83464526346,
+      "write_f32_lexical": 7833.193537503694,
+      "write_f32_ryu": 8150.508882606333,
+      "write_f64_dtoa": 29819.026911704288,
+      "write_f64_fmt": 73855.74120491908,
+      "write_f64_lexical": 12412.590550112678,
+      "write_f64_ryu": 13616.853573980943
+    },
+    "random_uniform": {
+      "write_f32_dtoa": 18990.742521994373,
+      "write_f32_fmt": 42506.46755615478,
+      "write_f32_lexical": 7914.347877081458,
+      "write_f32_ryu": 7917.735943116996,
+      "write_f64_dtoa": 28206.351558533293,
+      "write_f64_fmt": 47799.61747905906,
+      "write_f64_lexical": 11477.515007648344,
+      "write_f64_ryu": 12207.140987552537
+    }
+  },
+  "lower": {
+    "json": {
+      "write_f32_dtoa": 459627.8189560663,
+      "write_f32_fmt": 717933.49690303,
+      "write_f32_lexical": 188954.03880892575,
+      "write_f32_ryu": 189567.71764094257,
+      "write_f64_dtoa": 576758.4565771712,
+      "write_f64_fmt": 877243.5907951865,
+      "write_f64_lexical": 218128.91760109988,
+      "write_f64_ryu": 219734.72711922345
+    },
+    "random_big_ints": {
+      "write_f32_dtoa": 675.4702432204635,
+      "write_f32_fmt": 6922.247022073225,
+      "write_f32_lexical": 686.3376294871097,
+      "write_f32_ryu": 7926.648995956067,
+      "write_f64_dtoa": 31950.112109592697,
+      "write_f64_fmt": 54012.88749635579,
+      "write_f64_lexical": 11768.729056038139,
+      "write_f64_ryu": 12817.18057152399
+    },
+    "random_big_int_dot_int": {
+      "write_f32_dtoa": 18942.920884067084,
+      "write_f32_fmt": 50693.31779749393,
+      "write_f32_lexical": 7521.253511204854,
+      "write_f32_ryu": 8520.243052210482,
+      "write_f64_dtoa": 28080.44748435665,
+      "write_f64_fmt": 52840.531376314764,
+      "write_f64_lexical": 12477.675662226196,
+      "write_f64_ryu": 13239.414042106104
+    },
+    "random_one_over_rand32": {
+      "write_f32_dtoa": 18698.07489322772,
+      "write_f32_fmt": 42730.009070512635,
+      "write_f32_lexical": 7816.207099454745,
+      "write_f32_ryu": 7982.725566008037,
+      "write_f64_dtoa": 30596.822619314087,
+      "write_f64_fmt": 48778.06421701826,
+      "write_f64_lexical": 11769.673657369614,
+      "write_f64_ryu": 13267.295064508633
+    },
+    "random_simple_int32": {
+      "write_f32_dtoa": 19183.092038325434,
+      "write_f32_fmt": 51489.316809488526,
+      "write_f32_lexical": 7533.067255665403,
+      "write_f32_ryu": 8594.797121084262,
+      "write_f64_dtoa": 21859.7998854551,
+      "write_f64_fmt": 45171.214012476405,
+      "write_f64_lexical": 9792.399938753444,
+      "write_f64_ryu": 24373.350695276284
+    },
+    "random_simple_int64": {
+      "write_f32_dtoa": 21384.71951910717,
+      "write_f32_fmt": 51168.05343509808,
+      "write_f32_lexical": 7814.664409115396,
+      "write_f32_ryu": 7750.084206241464,
+      "write_f64_dtoa": 30565.41255486978,
+      "write_f64_fmt": 54163.464251201505,
+      "write_f64_lexical": 11668.844429827928,
+      "write_f64_ryu": 14101.949895445709
+    },
+    "random_simple_uniform32": {
+      "write_f32_dtoa": 18760.020781063857,
+      "write_f32_fmt": 42269.17251822671,
+      "write_f32_lexical": 7854.387464404161,
+      "write_f32_ryu": 7955.15727605872,
+      "write_f64_dtoa": 28146.878454487236,
+      "write_f64_fmt": 48425.261030965194,
+      "write_f64_lexical": 11502.704838027252,
+      "write_f64_ryu": 12057.746146805363
+    },
+    "random_special": {
+      "write_f32_dtoa": 18437.090943348554,
+      "write_f32_fmt": 52505.00365529318,
+      "write_f32_lexical": 7815.619980623884,
+      "write_f32_ryu": 8129.414137664296,
+      "write_f64_dtoa": 29625.329326211013,
+      "write_f64_fmt": 73183.00007975723,
+      "write_f64_lexical": 12373.405353910557,
+      "write_f64_ryu": 13524.760114131637
+    },
+    "random_uniform": {
+      "write_f32_dtoa": 18922.869120943527,
+      "write_f32_fmt": 42436.92057571905,
+      "write_f32_lexical": 7895.270010248547,
+      "write_f32_ryu": 7899.488087547437,
+      "write_f64_dtoa": 28068.097591908474,
+      "write_f64_fmt": 47675.14829265233,
+      "write_f64_lexical": 11453.629210750585,
+      "write_f64_ryu": 12172.710667506937
+    }
+  },
+  "upper": {
+    "json": {
+      "write_f32_dtoa": 463522.4463858247,
+      "write_f32_fmt": 720761.7477582924,
+      "write_f32_lexical": 190329.39629141416,
+      "write_f32_ryu": 191514.87377965296,
+      "write_f64_dtoa": 578916.8102753644,
+      "write_f64_fmt": 879798.3857255081,
+      "write_f64_lexical": 219839.9469474726,
+      "write_f64_ryu": 221524.4371980899
+    },
+    "random_big_ints": {
+      "write_f32_dtoa": 679.7829970477723,
+      "write_f32_fmt": 6946.551516571994,
+      "write_f32_lexical": 688.2181847473855,
+      "write_f32_ryu": 7992.031011313322,
+      "write_f64_dtoa": 32246.386038938977,
+      "write_f64_fmt": 54234.68400996899,
+      "write_f64_lexical": 11821.806816185632,
+      "write_f64_ryu": 12936.242814847248
+    },
+    "random_big_int_dot_int": {
+      "write_f32_dtoa": 19074.248998786134,
+      "write_f32_fmt": 51556.39820702636,
+      "write_f32_lexical": 7546.757067962043,
+      "write_f32_ryu": 8551.20740763028,
+      "write_f64_dtoa": 28346.370173354797,
+      "write_f64_fmt": 53005.132387159945,
+      "write_f64_lexical": 12523.415471506793,
+      "write_f64_ryu": 13317.389406606128
+    },
+    "random_one_over_rand32": {
+      "write_f32_dtoa": 18911.76808961239,
+      "write_f32_fmt": 42871.0067090308,
+      "write_f32_lexical": 7845.768529960379,
+      "write_f32_ryu": 8050.732292298943,
+      "write_f64_dtoa": 30870.730827227253,
+      "write_f64_fmt": 48986.102359330216,
+      "write_f64_lexical": 11848.232042331056,
+      "write_f64_ryu": 13358.730250143828
+    },
+    "random_simple_int32": {
+      "write_f32_dtoa": 19321.11149222476,
+      "write_f32_fmt": 51718.27837738771,
+      "write_f32_lexical": 7570.198112242292,
+      "write_f32_ryu": 8626.349419777614,
+      "write_f64_dtoa": 21940.367379054544,
+      "write_f64_fmt": 45346.93562041695,
+      "write_f64_lexical": 9838.049684374542,
+      "write_f64_ryu": 24511.03056085853
+    },
+    "random_simple_int64": {
+      "write_f32_dtoa": 21648.187037909574,
+      "write_f32_fmt": 51361.49380558906,
+      "write_f32_lexical": 7836.47841021217,
+      "write_f32_ryu": 7804.958252461508,
+      "write_f64_dtoa": 30833.56581226419,
+      "write_f64_fmt": 54342.5665106732,
+      "write_f64_lexical": 11723.388464893158,
+      "write_f64_ryu": 14190.211361647021
+    },
+    "random_simple_uniform32": {
+      "write_f32_dtoa": 18931.485267246284,
+      "write_f32_fmt": 42385.77312898993,
+      "write_f32_lexical": 7901.648012130044,
+      "write_f32_ryu": 8026.41335880362,
+      "write_f64_dtoa": 28450.64273477489,
+      "write_f64_fmt": 48575.81375362066,
+      "write_f64_lexical": 11548.690118143268,
+      "write_f64_ryu": 12138.729508524219
+    },
+    "random_special": {
+      "write_f32_dtoa": 18561.009383137614,
+      "write_f32_fmt": 52797.28536292444,
+      "write_f32_lexical": 7851.401336984121,
+      "write_f32_ryu": 8173.150300632461,
+      "write_f64_dtoa": 30009.54014365245,
+      "write_f64_fmt": 74893.81547213443,
+      "write_f64_lexical": 12459.485698663715,
+      "write_f64_ryu": 13717.356212242248
+    },
+    "random_uniform": {
+      "write_f32_dtoa": 19068.62865851322,
+      "write_f32_fmt": 42588.33192907208,
+      "write_f32_lexical": 7935.8309787605795,
+      "write_f32_ryu": 7936.546990918109,
+      "write_f64_dtoa": 28351.03771331754,
+      "write_f64_fmt": 47959.91649242511,
+      "write_f64_lexical": 11501.997909573665,
+      "write_f64_ryu": 12241.778240043643
+    }
+  },
+  "confidence": {
+    "json": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_big_ints": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_big_int_dot_int": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_one_over_rand32": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_simple_int32": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_simple_int64": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_simple_uniform32": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_special": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    },
+    "random_uniform": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    }
+  },
+  "std_dev": {
+    "json": {
+      "write_f32_dtoa": 10070.921752771552,
+      "write_f32_fmt": 7248.384284309946,
+      "write_f32_lexical": 3526.268784800105,
+      "write_f32_ryu": 5003.470461531994,
+      "write_f64_dtoa": 5539.136331399392,
+      "write_f64_fmt": 6534.88318299219,
+      "write_f64_lexical": 4382.431552558981,
+      "write_f64_ryu": 4599.000300073011
+    },
+    "random_big_ints": {
+      "write_f32_dtoa": 11.15364082049587,
+      "write_f32_fmt": 62.22524262467375,
+      "write_f32_lexical": 4.799235756723544,
+      "write_f32_ryu": 169.1888364972038,
+      "write_f64_dtoa": 758.2399627010103,
+      "write_f64_fmt": 570.8593106482728,
+      "write_f64_lexical": 136.22444723291756,
+      "write_f64_ryu": 304.81485743314806
+    },
+    "random_big_int_dot_int": {
+      "write_f32_dtoa": 336.1225871530925,
+      "write_f32_fmt": 2233.3761658247,
+      "write_f32_lexical": 65.5275654851318,
+      "write_f32_ryu": 79.66816736845871,
+      "write_f64_dtoa": 681.1396135778468,
+      "write_f64_fmt": 419.31562227351554,
+      "write_f64_lexical": 117.4209499816072,
+      "write_f64_ryu": 200.65714855512294
+    },
+    "random_one_over_rand32": {
+      "write_f32_dtoa": 548.0554710367485,
+      "write_f32_fmt": 359.62841462372916,
+      "write_f32_lexical": 75.62422629139407,
+      "write_f32_ryu": 174.6415111392464,
+      "write_f64_dtoa": 704.7898814359534,
+      "write_f64_fmt": 536.6005510135162,
+      "write_f64_lexical": 202.46330736890894,
+      "write_f64_ryu": 234.40568079253478
+    },
+    "random_simple_int32": {
+      "write_f32_dtoa": 353.49410737102284,
+      "write_f32_fmt": 586.5551576676187,
+      "write_f32_lexical": 96.23756004158358,
+      "write_f32_ryu": 80.53016225794165,
+      "write_f64_dtoa": 207.10509290273933,
+      "write_f64_fmt": 454.12473600708785,
+      "write_f64_lexical": 117.06770162346729,
+      "write_f64_ryu": 353.4767186039495
+    },
+    "random_simple_int64": {
+      "write_f32_dtoa": 671.5586553145706,
+      "write_f32_fmt": 498.52868995994635,
+      "write_f32_lexical": 56.12995702282492,
+      "write_f32_ryu": 141.41100232600937,
+      "write_f64_dtoa": 689.9915338096702,
+      "write_f64_fmt": 460.1376691774419,
+      "write_f64_lexical": 139.61774584546765,
+      "write_f64_ryu": 225.57540746931397
+    },
+    "random_simple_uniform32": {
+      "write_f32_dtoa": 437.72612825822773,
+      "write_f32_fmt": 298.36856422560334,
+      "write_f32_lexical": 121.80533350646799,
+      "write_f32_ryu": 187.11052985086036,
+      "write_f64_dtoa": 779.0222983164037,
+      "write_f64_fmt": 386.2356416903642,
+      "write_f64_lexical": 117.40360311241982,
+      "write_f64_ryu": 206.95960132424602
+    },
+    "random_special": {
+      "write_f32_dtoa": 316.2324857679149,
+      "write_f32_fmt": 751.6219113634997,
+      "write_f32_lexical": 92.0475450820775,
+      "write_f32_ryu": 112.32373516444069,
+      "write_f64_dtoa": 980.8136747510123,
+      "write_f64_fmt": 4522.807536868099,
+      "write_f64_lexical": 220.95665750306216,
+      "write_f64_ryu": 492.7934452132081
+    },
+    "random_uniform": {
+      "write_f32_dtoa": 375.0628073664504,
+      "write_f32_fmt": 386.6251413459199,
+      "write_f32_lexical": 104.59234565060896,
+      "write_f32_ryu": 95.54987306417874,
+      "write_f64_dtoa": 726.4723552631714,
+      "write_f64_fmt": 737.7295296045453,
+      "write_f64_lexical": 124.78866238102256,
+      "write_f64_ryu": 176.35757862918695
+    }
+  }
+}
