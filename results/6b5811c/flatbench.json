@@ -1,0 +1,62 @@
+{
+  "mean": {
+    "random_special": {
+      "write_f32_dtoa": 18583.087386507348,
+      "write_f32_fmt": 52471.14675828819,
+      "write_f32_lexical": 8061.055963030585,
+      "write_f32_ryu": 8072.715863319638,
+      "write_f64_dtoa": 28875.292050865217,
+      "write_f64_fmt": 65287.895339863666,
+      "write_f64_lexical": 11926.755313278856,
+      "write_f64_ryu": 13109.866826722653
+    }
+  },
+  "lower": {
+    "random_special": {
+      "write_f32_dtoa": 18531.48226457136,
+      "write_f32_fmt": 52298.229487409844,
+      "write_f32_lexical": 8045.695313451272,
+      "write_f32_ryu": 8048.968324604226,
+      "write_f64_dtoa": 28692.420824956098,
+      "write_f64_fmt": 65035.50266345507,
+      "write_f64_lexical": 11890.89638646475,
+      "write_f64_ryu": 13055.117226764749
+    }
+  },
+  "upper": {
+    "random_special": {
+      "write_f32_dtoa": 18641.72712121349,
+      "write_f32_fmt": 52682.218055275574,
+      "write_f32_lexical": 8078.052076660597,
+      "write_f32_ryu": 8104.241445722108,
+      "write_f64_dtoa": 29078.977909355293,
+      "write_f64_fmt": 65653.15839597903,
+      "write_f64_lexical": 11976.113317985813,
+      "write_f64_ryu": 13173.141895635605
+    }
+  },
+  "confidence": {
+    "random_special": {
+      "write_f32_dtoa": 0.95,
+      "write_f32_fmt": 0.95,
+      "write_f32_lexical": 0.95,
+      "write_f32_ryu": 0.95,
+      "write_f64_dtoa": 0.95,
+      "write_f64_fmt": 0.95,
+      "write_f64_lexical": 0.95,
+      "write_f64_ryu": 0.95
+    }
+  },
+  "std_dev": {
+    "random_special": {
+      "write_f32_dtoa": 283.9891569016646,
+      "write_f32_fmt": 994.9355619558585,
+      "write_f32_lexical": 82.91966891084378,
+      "write_f32_ryu": 142.70731850732253,
+      "write_f64_dtoa": 991.370098715422,
+      "write_f64_fmt": 1620.1130909598864,
+      "write_f64_lexical": 221.84077547602192,
+      "write_f64_ryu": 303.2647951383308
+    }
+  }
+}
