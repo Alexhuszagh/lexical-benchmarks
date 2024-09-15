@@ -1,0 +1,1512 @@
+{
+  "mean": {
+    "canada": {
+      "parse_canada_core": 1300059.3331655627,
+      "parse_canada_lexical": 1228935.7483164575
+    },
+    "contrived_denormal10": {
+      "parse_f64_core": 8.988262553897568,
+      "parse_f64_lexical": 8.849084004205807
+    },
+    "contrived_denormal100": {
+      "parse_f64_core": 7450.176622376324,
+      "parse_f64_lexical": 180.92254229892657
+    },
+    "contrived_denormal1600": {
+      "parse_f64_core": 9681.95764114622,
+      "parse_f64_lexical": 1547.431761322402
+    },
+    "contrived_denormal20": {
+      "parse_f64_core": 9.991398767763574,
+      "parse_f64_lexical": 10.16266798370077
+    },
+    "contrived_denormal200": {
+      "parse_f64_core": 9991.295671926297,
+      "parse_f64_lexical": 264.36041823932305
+    },
+    "contrived_denormal30": {
+      "parse_f64_core": 5644.673830694391,
+      "parse_f64_lexical": 110.87294338154024
+    },
+    "contrived_denormal3200": {
+      "parse_f64_core": 10433.954227752902,
+      "parse_f64_lexical": 1776.1871541857397
+    },
+    "contrived_denormal40": {
+      "parse_f64_core": 5878.618215171691,
+      "parse_f64_lexical": 116.73952264813649
+    },
+    "contrived_denormal400": {
+      "parse_f64_core": 15043.877752192184,
+      "parse_f64_lexical": 571.8274747443409
+    },
+    "contrived_denormal50": {
+      "parse_f64_core": 6151.068908030181,
+      "parse_f64_lexical": 119.07240454896774
+    },
+    "contrived_denormal6400": {
+      "parse_f64_core": 11830.867108290775,
+      "parse_f64_lexical": 2194.014063678559
+    },
+    "contrived_denormal800": {
+      "parse_f64_core": 9319.453697536692,
+      "parse_f64_lexical": 1430.0128149453317
+    },
+    "contrived_disguised": {
+      "parse_f64_core": 7.352709014603765,
+      "parse_f64_lexical": 7.069847987051406
+    },
+    "contrived_fast": {
+      "parse_f64_core": 7.531752577519757,
+      "parse_f64_lexical": 6.915416421989786
+    },
+    "contrived_halfway": {
+      "parse_f64_core": 8.015308058401592,
+      "parse_f64_lexical": 7.971284381727632
+    },
+    "contrived_large10": {
+      "parse_f64_core": 9.541962939416612,
+      "parse_f64_lexical": 9.63456204784398
+    },
+    "contrived_large100": {
+      "parse_f64_core": 10950.489569457803,
+      "parse_f64_lexical": 133.86059798262087
+    },
+    "contrived_large1600": {
+      "parse_f64_core": 3752.8366038459794,
+      "parse_f64_lexical": 890.4930292207221
+    },
+    "contrived_large20": {
+      "parse_f64_core": 10.97047075819364,
+      "parse_f64_lexical": 11.105333125215544
+    },
+    "contrived_large200": {
+      "parse_f64_core": 12374.393102552556,
+      "parse_f64_lexical": 163.52331034846964
+    },
+    "contrived_large30": {
+      "parse_f64_core": 9825.607150440981,
+      "parse_f64_lexical": 109.23337503194561
+    },
+    "contrived_large3200": {
+      "parse_f64_core": 5037.967936247803,
+      "parse_f64_lexical": 1123.3935560491561
+    },
+    "contrived_large40": {
+      "parse_f64_core": 9993.745031901079,
+      "parse_f64_lexical": 94.90311750831853
+    },
+    "contrived_large400": {
+      "parse_f64_core": 2859.221417110881,
+      "parse_f64_lexical": 293.80778161474507
+    },
+    "contrived_large50": {
+      "parse_f64_core": 10191.405532921886,
+      "parse_f64_lexical": 99.93546993127147
+    },
+    "contrived_large6400": {
+      "parse_f64_core": 7602.09211755269,
+      "parse_f64_lexical": 1545.019727393385
+    },
+    "contrived_large800": {
+      "parse_f64_core": 3111.0681772332387,
+      "parse_f64_lexical": 775.5776151195912
+    },
+    "contrived_moderate": {
+      "parse_f64_core": 8.00941111920094,
+      "parse_f64_lexical": 7.9799790008356775
+    },
+    "earth": {
+      "parse_earth_core": 1161170.0462795147,
+      "parse_earth_lexical": 1174604.9158852529
+    },
+    "json": {
+      "parse_f32_core": 225846.98887190426,
+      "parse_f32_lexical": 212988.82952048947,
+      "parse_f64_core": 240298.4201503292,
+      "parse_f64_lexical": 221144.44995043043
+    },
+    "json_random": {
+      "parse_i128_core": 611584.0207742032,
+      "parse_i128_lexical": 380754.9499022937,
+      "parse_i16_core": 66303.26301008923,
+      "parse_i16_lexical": 55983.532692958666,
+      "parse_i32_core": 97815.76705909136,
+      "parse_i32_lexical": 67704.88496425556,
+      "parse_i64_core": 127973.34406023432,
+      "parse_i64_lexical": 115141.19105327017,
+      "parse_i8_core": 52507.137132328826,
+      "parse_i8_lexical": 42810.84994068552,
+      "parse_u128_core": 457365.75396995625,
+      "parse_u128_lexical": 311542.1708589349,
+      "parse_u16_core": 40646.09450474995,
+      "parse_u16_lexical": 34827.1980750045,
+      "parse_u32_core": 72317.84217608023,
+      "parse_u32_lexical": 56441.450216495236,
+      "parse_u64_core": 138459.43192938546,
+      "parse_u64_lexical": 107003.66997287076,
+      "parse_u8_core": 35449.29976140423,
+      "parse_u8_lexical": 32067.89753669853
+    },
+    "json_simple": {
+      "parse_u128_core": 24446.43711575139,
+      "parse_u128_lexical": 30015.963847983807,
+      "parse_u16_core": 21025.121564019035,
+      "parse_u16_lexical": 21963.393107570144,
+      "parse_u32_core": 22947.273645288627,
+      "parse_u32_lexical": 23655.705516528058,
+      "parse_u64_core": 20973.71567542929,
+      "parse_u64_lexical": 21454.07848526894,
+      "parse_u8_core": 15926.08714124578,
+      "parse_u8_lexical": 13192.438651875362
+    },
+    "mesh": {
+      "parse_mesh_core": 405025.6213618327,
+      "parse_mesh_lexical": 396822.4336145267
+    },
+    "random_big_ints": {
+      "parse_f32_core": 24627.124732007003,
+      "parse_f32_lexical": 17794.57710317987,
+      "parse_f64_core": 33128.099520369266,
+      "parse_f64_lexical": 23614.707585674456
+    },
+    "random_big_int_dot_int": {
+      "parse_f32_core": 20152.180722391397,
+      "parse_f32_lexical": 16201.88790746923,
+      "parse_f64_core": 20497.912306956434,
+      "parse_f64_lexical": 17498.323968182223
+    },
+    "random_int_e_int": {
+      "parse_f32_core": 8981.077224077817,
+      "parse_f32_lexical": 8257.738778764091,
+      "parse_f64_core": 9198.091839437437,
+      "parse_f64_lexical": 9253.671498403162
+    },
+    "random_large": {
+      "parse_i128_core": 59081.64764623609,
+      "parse_i128_lexical": 34299.023964238106,
+      "parse_i16_core": 4197.682911271106,
+      "parse_i16_lexical": 2536.4846817370226,
+      "parse_i32_core": 7223.488698897251,
+      "parse_i32_lexical": 3704.57630011042,
+      "parse_i64_core": 10308.532848681714,
+      "parse_i64_lexical": 8837.165618619181,
+      "parse_i8_core": 2044.5609520240635,
+      "parse_i8_lexical": 1955.6238312382495,
+      "parse_u128_core": 45344.86460133186,
+      "parse_u128_lexical": 31165.73398892914,
+      "parse_u16_core": 3292.4155896854995,
+      "parse_u16_lexical": 2776.7033087368563,
+      "parse_u32_core": 6689.6528366981765,
+      "parse_u32_lexical": 4988.420128976565,
+      "parse_u64_core": 13871.900610031502,
+      "parse_u64_lexical": 9447.011237972012,
+      "parse_u8_core": 1969.267451121231,
+      "parse_u8_lexical": 1822.8068265805837
+    },
+    "random_large_signed": {
+      "parse_i128_core": 58830.68310244686,
+      "parse_i128_lexical": 37345.62571305487,
+      "parse_i16_core": 4099.524404583852,
+      "parse_i16_lexical": 2610.8413099800555,
+      "parse_i32_core": 7056.8675452248135,
+      "parse_i32_lexical": 4087.973122963767,
+      "parse_i64_core": 9813.870884850636,
+      "parse_i64_lexical": 8707.951516227784,
+      "parse_i8_core": 1967.3083320613657,
+      "parse_i8_lexical": 1868.918466100702
+    },
+    "random_one_over_rand32": {
+      "parse_f32_core": 11967.24896298631,
+      "parse_f32_lexical": 10440.692405837292,
+      "parse_f64_core": 18390.28200626021,
+      "parse_f64_lexical": 16548.672952355144
+    },
+    "random_simple": {
+      "parse_i128_core": 2057.9601457970007,
+      "parse_i128_lexical": 2161.372618571036,
+      "parse_i16_core": 1961.5589183570771,
+      "parse_i16_lexical": 2313.1639181631313,
+      "parse_i32_core": 1683.253780122528,
+      "parse_i32_lexical": 2160.1374929677677,
+      "parse_i64_core": 1795.7532601557184,
+      "parse_i64_lexical": 2105.8650121599917,
+      "parse_i8_core": 1562.214762534105,
+      "parse_i8_lexical": 2131.7835059081153,
+      "parse_u128_core": 2044.0541765463338,
+      "parse_u128_lexical": 2005.2252646589593,
+      "parse_u16_core": 1778.6283788951946,
+      "parse_u16_lexical": 1697.9222559671844,
+      "parse_u32_core": 1391.6822485527855,
+      "parse_u32_lexical": 1657.1284806353488,
+      "parse_u64_core": 1806.9423578700444,
+      "parse_u64_lexical": 1722.0475554254974,
+      "parse_u8_core": 1623.7873781664994,
+      "parse_u8_lexical": 1329.270814316763
+    },
+    "random_simple_int32": {
+      "parse_f32_core": 8657.897507152984,
+      "parse_f32_lexical": 7987.000360663842,
+      "parse_f64_core": 5213.833310823842,
+      "parse_f64_lexical": 5812.508955497944
+    },
+    "random_simple_int64": {
+      "parse_f32_core": 18294.313745934545,
+      "parse_f32_lexical": 14722.843983448134,
+      "parse_f64_core": 18446.417927692964,
+      "parse_f64_lexical": 15773.704048192627
+    },
+    "random_simple_signed": {
+      "parse_i128_core": 1930.9864350557975,
+      "parse_i128_lexical": 2203.2770881204174,
+      "parse_i16_core": 2079.804540825733,
+      "parse_i16_lexical": 2193.1904396717573,
+      "parse_i32_core": 2178.6733690053584,
+      "parse_i32_lexical": 1781.31356172405,
+      "parse_i64_core": 1962.7031114842694,
+      "parse_i64_lexical": 2083.88754913797,
+      "parse_i8_core": 1815.2674437545863,
+      "parse_i8_lexical": 1542.2207606087165
+    },
+    "random_simple_uniform32": {
+      "parse_f32_core": 8614.417086646023,
+      "parse_f32_lexical": 7830.868623202312,
+      "parse_f64_core": 8317.788227303625,
+      "parse_f64_lexical": 8688.547392235561
+    },
+    "random_uniform": {
+      "parse_f32_core": 8766.114844951504,
+      "parse_f32_lexical": 8098.43153099729,
+      "parse_f64_core": 8059.385867932716,
+      "parse_f64_lexical": 8561.4563583284,
+      "parse_i128_core": 60862.861253182266,
+      "parse_i128_lexical": 37139.68604487542,
+      "parse_i16_core": 3628.9894942773967,
+      "parse_i16_lexical": 2427.0733480879294,
+      "parse_i32_core": 5185.429426567205,
+      "parse_i32_lexical": 3857.2867571662837,
+      "parse_i64_core": 10571.888198483226,
+      "parse_i64_lexical": 9349.534475570777,
+      "parse_i8_core": 2136.174040890378,
+      "parse_i8_lexical": 1895.1308340781811,
+      "parse_u128_core": 45226.948398684675,
+      "parse_u128_lexical": 30954.26421238208,
+      "parse_u16_core": 3124.7392936799984,
+      "parse_u16_lexical": 2705.650950213564,
+      "parse_u32_core": 6685.827984699948,
+      "parse_u32_lexical": 4645.839813849121,
+      "parse_u64_core": 13598.326063943843,
+      "parse_u64_lexical": 9381.660105285919,
+      "parse_u8_core": 2138.4417786618865,
+      "parse_u8_lexical": 1465.4548485353826
+    }
+  },
+  "lower": {
+    "canada": {
+      "parse_canada_core": 1295127.5694962426,
+      "parse_canada_lexical": 1225060.9707508069
+    },
+    "contrived_denormal10": {
+      "parse_f64_core": 8.975968589632759,
+      "parse_f64_lexical": 8.82401768438795
+    },
+    "contrived_denormal100": {
+      "parse_f64_core": 7429.436203991109,
+      "parse_f64_lexical": 180.61165365967653
+    },
+    "contrived_denormal1600": {
+      "parse_f64_core": 9666.06157398195,
+      "parse_f64_lexical": 1543.7645946002506
+    },
+    "contrived_denormal20": {
+      "parse_f64_core": 9.977062166873118,
+      "parse_f64_lexical": 10.133568610883223
+    },
+    "contrived_denormal200": {
+      "parse_f64_core": 9974.193510960484,
+      "parse_f64_lexical": 263.778849311107
+    },
+    "contrived_denormal30": {
+      "parse_f64_core": 5637.3950289016375,
+      "parse_f64_lexical": 110.5936581014215
+    },
+    "contrived_denormal3200": {
+      "parse_f64_core": 10413.364801607915,
+      "parse_f64_lexical": 1771.9979131171058
+    },
+    "contrived_denormal40": {
+      "parse_f64_core": 5871.939997370397,
+      "parse_f64_lexical": 116.47255172119326
+    },
+    "contrived_denormal400": {
+      "parse_f64_core": 15019.886853608528,
+      "parse_f64_lexical": 570.7582427040572
+    },
+    "contrived_denormal50": {
+      "parse_f64_core": 6144.132506225985,
+      "parse_f64_lexical": 118.79744279740498
+    },
+    "contrived_denormal6400": {
+      "parse_f64_core": 11811.11189716636,
+      "parse_f64_lexical": 2191.3003309604946
+    },
+    "contrived_denormal800": {
+      "parse_f64_core": 9307.601022788795,
+      "parse_f64_lexical": 1427.474797538243
+    },
+    "contrived_disguised": {
+      "parse_f64_core": 7.336564981357102,
+      "parse_f64_lexical": 7.051835919110013
+    },
+    "contrived_fast": {
+      "parse_f64_core": 7.5013373963595695,
+      "parse_f64_lexical": 6.9045233794682845
+    },
+    "contrived_halfway": {
+      "parse_f64_core": 7.997885458592976,
+      "parse_f64_lexical": 7.961144709876694
+    },
+    "contrived_large10": {
+      "parse_f64_core": 9.492013161455066,
+      "parse_f64_lexical": 9.615768589888052
+    },
+    "contrived_large100": {
+      "parse_f64_core": 10925.42040571399,
+      "parse_f64_lexical": 133.64731912728413
+    },
+    "contrived_large1600": {
+      "parse_f64_core": 3746.192104120875,
+      "parse_f64_lexical": 888.6385376727718
+    },
+    "contrived_large20": {
+      "parse_f64_core": 10.938751702840976,
+      "parse_f64_lexical": 11.073485925918641
+    },
+    "contrived_large200": {
+      "parse_f64_core": 12337.41928436855,
+      "parse_f64_lexical": 163.13007089222347
+    },
+    "contrived_large30": {
+      "parse_f64_core": 9802.436016214248,
+      "parse_f64_lexical": 108.97392789746299
+    },
+    "contrived_large3200": {
+      "parse_f64_core": 5026.864653164227,
+      "parse_f64_lexical": 1119.937672219126
+    },
+    "contrived_large40": {
+      "parse_f64_core": 9982.825120253614,
+      "parse_f64_lexical": 94.65271820904489
+    },
+    "contrived_large400": {
+      "parse_f64_core": 2854.244861139664,
+      "parse_f64_lexical": 293.1858023458437
+    },
+    "contrived_large50": {
+      "parse_f64_core": 10150.741296343333,
+      "parse_f64_lexical": 99.72980791461929
+    },
+    "contrived_large6400": {
+      "parse_f64_core": 7589.801235252339,
+      "parse_f64_lexical": 1542.1287950279766
+    },
+    "contrived_large800": {
+      "parse_f64_core": 3104.2203893174574,
+      "parse_f64_lexical": 774.0820748722347
+    },
+    "contrived_moderate": {
+      "parse_f64_core": 7.997476612684563,
+      "parse_f64_lexical": 7.97158678267033
+    },
+    "earth": {
+      "parse_earth_core": 1157218.900707752,
+      "parse_earth_lexical": 1171390.6281657186
+    },
+    "json": {
+      "parse_f32_core": 225208.21387768857,
+      "parse_f32_lexical": 211794.30634326758,
+      "parse_f64_core": 239416.5313972385,
+      "parse_f64_lexical": 220222.9184387685
+    },
+    "json_random": {
+      "parse_i128_core": 610397.7621470096,
+      "parse_i128_lexical": 379739.5395738179,
+      "parse_i16_core": 66073.57929900188,
+      "parse_i16_lexical": 55756.997889667226,
+      "parse_i32_core": 97558.11186668421,
+      "parse_i32_lexical": 67475.274975328,
+      "parse_i64_core": 127500.94206741905,
+      "parse_i64_lexical": 114360.44666591722,
+      "parse_i8_core": 52153.4707841472,
+      "parse_i8_lexical": 42557.20127514172,
+      "parse_u128_core": 456371.85987425223,
+      "parse_u128_lexical": 310969.758185231,
+      "parse_u16_core": 40516.88424096657,
+      "parse_u16_lexical": 34668.132062705394,
+      "parse_u32_core": 72099.64588319213,
+      "parse_u32_lexical": 56137.95039185304,
+      "parse_u64_core": 137862.54568911594,
+      "parse_u64_lexical": 106048.40681911848,
+      "parse_u8_core": 35314.342973822044,
+      "parse_u8_lexical": 31977.10833410748
+    },
+    "json_simple": {
+      "parse_u128_core": 24323.872896456694,
+      "parse_u128_lexical": 29867.08046997849,
+      "parse_u16_core": 20958.79704483886,
+      "parse_u16_lexical": 21871.68243567578,
+      "parse_u32_core": 22838.7519934243,
+      "parse_u32_lexical": 23557.403686383845,
+      "parse_u64_core": 20900.387573761865,
+      "parse_u64_lexical": 21378.107633666794,
+      "parse_u8_core": 15878.76481423923,
+      "parse_u8_lexical": 13107.931336767475
+    },
+    "mesh": {
+      "parse_mesh_core": 404266.24878380616,
+      "parse_mesh_lexical": 395730.07008921244
+    },
+    "random_big_ints": {
+      "parse_f32_core": 24550.51898716118,
+      "parse_f32_lexical": 17738.722241161024,
+      "parse_f64_core": 33057.76192246335,
+      "parse_f64_lexical": 23560.43160337898
+    },
+    "random_big_int_dot_int": {
+      "parse_f32_core": 20105.70872728315,
+      "parse_f32_lexical": 16168.450509881619,
+      "parse_f64_core": 20471.95678865454,
+      "parse_f64_lexical": 17469.458959613276
+    },
+    "random_int_e_int": {
+      "parse_f32_core": 8959.048257434504,
+      "parse_f32_lexical": 8236.78153440066,
+      "parse_f64_core": 9167.186094092756,
+      "parse_f64_lexical": 9228.808202778711
+    },
+    "random_large": {
+      "parse_i128_core": 58869.727327131724,
+      "parse_i128_lexical": 34233.12248602644,
+      "parse_i16_core": 4188.704492523986,
+      "parse_i16_lexical": 2529.6865083288435,
+      "parse_i32_core": 7207.685507282752,
+      "parse_i32_lexical": 3679.01059777506,
+      "parse_i64_core": 10277.040648230375,
+      "parse_i64_lexical": 8817.70495637709,
+      "parse_i8_core": 2041.0589326564198,
+      "parse_i8_lexical": 1952.426048744101,
+      "parse_u128_core": 45241.559980922124,
+      "parse_u128_lexical": 31099.916901259738,
+      "parse_u16_core": 3287.2525234641535,
+      "parse_u16_lexical": 2770.264182164577,
+      "parse_u32_core": 6675.876649150054,
+      "parse_u32_lexical": 4966.950872518814,
+      "parse_u64_core": 13840.842168367784,
+      "parse_u64_lexical": 9415.816520235148,
+      "parse_u8_core": 1962.7121819882293,
+      "parse_u8_lexical": 1818.5135586082695
+    },
+    "random_large_signed": {
+      "parse_i128_core": 58703.69102724635,
+      "parse_i128_lexical": 37265.53891660245,
+      "parse_i16_core": 4082.9724285734387,
+      "parse_i16_lexical": 2601.3424526216318,
+      "parse_i32_core": 7042.950842754993,
+      "parse_i32_lexical": 4056.3311269970486,
+      "parse_i64_core": 9799.151371340007,
+      "parse_i64_lexical": 8680.769177845164,
+      "parse_i8_core": 1962.122006435983,
+      "parse_i8_lexical": 1867.042402496677
+    },
+    "random_one_over_rand32": {
+      "parse_f32_core": 11946.039272816593,
+      "parse_f32_lexical": 10416.209903410849,
+      "parse_f64_core": 18350.900275773052,
+      "parse_f64_lexical": 16518.222983450847
+    },
+    "random_simple": {
+      "parse_i128_core": 2047.9835390288454,
+      "parse_i128_lexical": 2156.6388519593593,
+      "parse_i16_core": 1951.6460911482338,
+      "parse_i16_lexical": 2301.042051115936,
+      "parse_i32_core": 1675.1344940374177,
+      "parse_i32_lexical": 2155.5959657399435,
+      "parse_i64_core": 1792.861323704197,
+      "parse_i64_lexical": 2099.367294146954,
+      "parse_i8_core": 1552.5600264819288,
+      "parse_i8_lexical": 2123.927967031291,
+      "parse_u128_core": 2038.3664178285414,
+      "parse_u128_lexical": 1998.1538847961028,
+      "parse_u16_core": 1775.3803965355023,
+      "parse_u16_lexical": 1692.0544406227507,
+      "parse_u32_core": 1389.364760709888,
+      "parse_u32_lexical": 1642.3340150455504,
+      "parse_u64_core": 1802.7052238962867,
+      "parse_u64_lexical": 1718.7347457363999,
+      "parse_u8_core": 1619.6390631003853,
+      "parse_u8_lexical": 1326.594398657473
+    },
+    "random_simple_int32": {
+      "parse_f32_core": 8642.704686079082,
+      "parse_f32_lexical": 7967.567750742904,
+      "parse_f64_core": 5207.644376556179,
+      "parse_f64_lexical": 5805.069103596317
+    },
+    "random_simple_int64": {
+      "parse_f32_core": 18237.702170270954,
+      "parse_f32_lexical": 14687.935111947856,
+      "parse_f64_core": 18402.392874187535,
+      "parse_f64_lexical": 15744.416957394795
+    },
+    "random_simple_signed": {
+      "parse_i128_core": 1928.0993106932222,
+      "parse_i128_lexical": 2193.202104702058,
+      "parse_i16_core": 2073.448026405038,
+      "parse_i16_lexical": 2188.3286877170085,
+      "parse_i32_core": 2171.260790614504,
+      "parse_i32_lexical": 1777.225435765577,
+      "parse_i64_core": 1959.032933889264,
+      "parse_i64_lexical": 2077.205887016609,
+      "parse_i8_core": 1811.06098805796,
+      "parse_i8_lexical": 1533.963881523536
+    },
+    "random_simple_uniform32": {
+      "parse_f32_core": 8599.803645956956,
+      "parse_f32_lexical": 7816.0074701679605,
+      "parse_f64_core": 8288.608921580026,
+      "parse_f64_lexical": 8667.840681515861
+    },
+    "random_uniform": {
+      "parse_f32_core": 8737.502445246853,
+      "parse_f32_lexical": 8047.970562472141,
+      "parse_f64_core": 8043.561976392151,
+      "parse_f64_lexical": 8545.32767725149,
+      "parse_i128_core": 60724.356691466826,
+      "parse_i128_lexical": 37073.44700542031,
+      "parse_i16_core": 3618.6430954320026,
+      "parse_i16_lexical": 2420.532581634228,
+      "parse_i32_core": 5172.797649510739,
+      "parse_i32_lexical": 3833.2098872061806,
+      "parse_i64_core": 10539.33939324298,
+      "parse_i64_lexical": 9314.03986250163,
+      "parse_i8_core": 2130.146025277337,
+      "parse_i8_lexical": 1887.5568383310765,
+      "parse_u128_core": 45133.32924247727,
+      "parse_u128_lexical": 30877.684351974083,
+      "parse_u16_core": 3120.4564348522863,
+      "parse_u16_lexical": 2701.050124564598,
+      "parse_u32_core": 6674.7533367153555,
+      "parse_u32_lexical": 4621.570027216166,
+      "parse_u64_core": 13571.521238444786,
+      "parse_u64_lexical": 9362.420770738327,
+      "parse_u8_core": 2133.522090275383,
+      "parse_u8_lexical": 1460.0444447958462
+    }
+  },
+  "upper": {
+    "canada": {
+      "parse_canada_core": 1305774.8876464474,
+      "parse_canada_lexical": 1233054.750282934
+    },
+    "contrived_denormal10": {
+      "parse_f64_core": 9.001292353062833,
+      "parse_f64_lexical": 8.881525049630927
+    },
+    "contrived_denormal100": {
+      "parse_f64_core": 7475.848584966116,
+      "parse_f64_lexical": 181.260795371978
+    },
+    "contrived_denormal1600": {
+      "parse_f64_core": 9699.432695515945,
+      "parse_f64_lexical": 1551.477913546756
+    },
+    "contrived_denormal20": {
+      "parse_f64_core": 10.006824373363584,
+      "parse_f64_lexical": 10.196582084789382
+    },
+    "contrived_denormal200": {
+      "parse_f64_core": 10011.107378240556,
+      "parse_f64_lexical": 264.98060536810374
+    },
+    "contrived_denormal30": {
+      "parse_f64_core": 5652.422453535038,
+      "parse_f64_lexical": 111.20233249738654
+    },
+    "contrived_denormal3200": {
+      "parse_f64_core": 10457.422184339823,
+      "parse_f64_lexical": 1780.7708894139096
+    },
+    "contrived_denormal40": {
+      "parse_f64_core": 5885.339930522644,
+      "parse_f64_lexical": 117.03101428896527
+    },
+    "contrived_denormal400": {
+      "parse_f64_core": 15072.98434737967,
+      "parse_f64_lexical": 572.9118579136693
+    },
+    "contrived_denormal50": {
+      "parse_f64_core": 6158.576652404304,
+      "parse_f64_lexical": 119.41447052980165
+    },
+    "contrived_denormal6400": {
+      "parse_f64_core": 11850.206827665117,
+      "parse_f64_lexical": 2196.8079680976966
+    },
+    "contrived_denormal800": {
+      "parse_f64_core": 9331.96774735982,
+      "parse_f64_lexical": 1432.600380981203
+    },
+    "contrived_disguised": {
+      "parse_f64_core": 7.372157547892822,
+      "parse_f64_lexical": 7.0931344174897974
+    },
+    "contrived_fast": {
+      "parse_f64_core": 7.560893471120838,
+      "parse_f64_lexical": 6.926935678386245
+    },
+    "contrived_halfway": {
+      "parse_f64_core": 8.040152882439754,
+      "parse_f64_lexical": 7.98221755050534
+    },
+    "contrived_large10": {
+      "parse_f64_core": 9.618817816208987,
+      "parse_f64_lexical": 9.654409117673529
+    },
+    "contrived_large100": {
+      "parse_f64_core": 10984.345568159295,
+      "parse_f64_lexical": 134.09026710931784
+    },
+    "contrived_large1600": {
+      "parse_f64_core": 3760.4671877473493,
+      "parse_f64_lexical": 892.6848023677261
+    },
+    "contrived_large20": {
+      "parse_f64_core": 11.008015671167696,
+      "parse_f64_lexical": 11.142354313750031
+    },
+    "contrived_large200": {
+      "parse_f64_core": 12421.037350914448,
+      "parse_f64_lexical": 163.97919281346202
+    },
+    "contrived_large30": {
+      "parse_f64_core": 9854.583155448792,
+      "parse_f64_lexical": 109.57342958513159
+    },
+    "contrived_large3200": {
+      "parse_f64_core": 5052.567954087513,
+      "parse_f64_lexical": 1127.7388733877588
+    },
+    "contrived_large40": {
+      "parse_f64_core": 10005.09195726436,
+      "parse_f64_lexical": 95.1939255378435
+    },
+    "contrived_large400": {
+      "parse_f64_core": 2864.9582141265378,
+      "parse_f64_lexical": 294.5555918856305
+    },
+    "contrived_large50": {
+      "parse_f64_core": 10237.919734069228,
+      "parse_f64_lexical": 100.1566231901766
+    },
+    "contrived_large6400": {
+      "parse_f64_core": 7614.207620156342,
+      "parse_f64_lexical": 1548.0332635355442
+    },
+    "contrived_large800": {
+      "parse_f64_core": 3119.6405126960694,
+      "parse_f64_lexical": 777.3768359943964
+    },
+    "contrived_moderate": {
+      "parse_f64_core": 8.02392569956968,
+      "parse_f64_lexical": 7.988682979777835
+    },
+    "earth": {
+      "parse_earth_core": 1165702.1728625004,
+      "parse_earth_lexical": 1178038.894676962
+    },
+    "json": {
+      "parse_f32_core": 226508.77871367653,
+      "parse_f32_lexical": 214316.2070913331,
+      "parse_f64_core": 241355.3182820916,
+      "parse_f64_lexical": 222118.15146467177
+    },
+    "json_random": {
+      "parse_i128_core": 612912.3598980785,
+      "parse_i128_lexical": 381829.6818986617,
+      "parse_i16_core": 66538.12196089831,
+      "parse_i16_lexical": 56244.292511894055,
+      "parse_i32_core": 98096.60948515769,
+      "parse_i32_lexical": 67948.84463451737,
+      "parse_i64_core": 128467.91721941505,
+      "parse_i64_lexical": 116056.91572118345,
+      "parse_i8_core": 52882.9797704712,
+      "parse_i8_lexical": 43074.50701365527,
+      "parse_u128_core": 458392.4700565761,
+      "parse_u128_lexical": 312183.60874387075,
+      "parse_u16_core": 40782.18764697812,
+      "parse_u16_lexical": 34993.20492619995,
+      "parse_u32_core": 72559.8267534588,
+      "parse_u32_lexical": 56754.46408480547,
+      "parse_u64_core": 139180.86144380082,
+      "parse_u64_lexical": 108280.17264207221,
+      "parse_u8_core": 35585.79236125074,
+      "parse_u8_lexical": 32162.22748461206
+    },
+    "json_simple": {
+      "parse_u128_core": 24572.91602263617,
+      "parse_u128_lexical": 30172.29553648017,
+      "parse_u16_core": 21092.54615321532,
+      "parse_u16_lexical": 22058.618084126385,
+      "parse_u32_core": 23066.171875644355,
+      "parse_u32_lexical": 23769.02812910343,
+      "parse_u64_core": 21053.86614503964,
+      "parse_u64_lexical": 21533.76834044748,
+      "parse_u8_core": 15976.123156125539,
+      "parse_u8_lexical": 13288.059632143006
+    },
+    "mesh": {
+      "parse_mesh_core": 405800.05789410905,
+      "parse_mesh_lexical": 397971.27780800144
+    },
+    "random_big_ints": {
+      "parse_f32_core": 24706.714155421392,
+      "parse_f32_lexical": 17858.18423476688,
+      "parse_f64_core": 33205.17752677959,
+      "parse_f64_lexical": 23671.71914207455
+    },
+    "random_big_int_dot_int": {
+      "parse_f32_core": 20208.07518916879,
+      "parse_f32_lexical": 16236.728402482106,
+      "parse_f64_core": 20523.32875168691,
+      "parse_f64_lexical": 17531.0911857805
+    },
+    "random_int_e_int": {
+      "parse_f32_core": 9004.034346145963,
+      "parse_f32_lexical": 8279.617722146675,
+      "parse_f64_core": 9230.924741392213,
+      "parse_f64_lexical": 9281.318231231044
+    },
+    "random_large": {
+      "parse_i128_core": 59334.88142044083,
+      "parse_i128_lexical": 34370.838141650995,
+      "parse_i16_core": 4208.214412466955,
+      "parse_i16_lexical": 2544.0895531670217,
+      "parse_i32_core": 7239.868757545702,
+      "parse_i32_lexical": 3731.6258057019454,
+      "parse_i64_core": 10344.33228639616,
+      "parse_i64_lexical": 8860.143324716855,
+      "parse_i8_core": 2048.591673863407,
+      "parse_i8_lexical": 1959.760119197964,
+      "parse_u128_core": 45449.01221136487,
+      "parse_u128_lexical": 31232.939423285916,
+      "parse_u16_core": 3297.7569251176355,
+      "parse_u16_lexical": 2784.0221481268654,
+      "parse_u32_core": 6703.96994208823,
+      "parse_u32_lexical": 5012.07144855798,
+      "parse_u64_core": 13903.046320938545,
+      "parse_u64_lexical": 9482.194258014692,
+      "parse_u8_core": 1978.352296243433,
+      "parse_u8_lexical": 1827.7386413536526
+    },
+    "random_large_signed": {
+      "parse_i128_core": 58982.3065825333,
+      "parse_i128_lexical": 37429.70995639432,
+      "parse_i16_core": 4124.737951992265,
+      "parse_i16_lexical": 2621.210923588517,
+      "parse_i32_core": 7073.863274894738,
+      "parse_i32_lexical": 4121.2754225815115,
+      "parse_i64_core": 9829.159311782278,
+      "parse_i64_lexical": 8737.003819982652,
+      "parse_i8_core": 1973.1971928930186,
+      "parse_i8_lexical": 1870.8808126942545
+    },
+    "random_one_over_rand32": {
+      "parse_f32_core": 11988.722701156084,
+      "parse_f32_lexical": 10466.070190241904,
+      "parse_f64_core": 18437.43593107613,
+      "parse_f64_lexical": 16582.54228277707
+    },
+    "random_simple": {
+      "parse_i128_core": 2070.4516722467674,
+      "parse_i128_lexical": 2166.8018279968833,
+      "parse_i16_core": 1977.7547107081434,
+      "parse_i16_lexical": 2327.184030220196,
+      "parse_i32_core": 1693.0504717348722,
+      "parse_i32_lexical": 2165.328103241292,
+      "parse_i64_core": 1798.6198110661485,
+      "parse_i64_lexical": 2113.63955104063,
+      "parse_i8_core": 1571.8947679381604,
+      "parse_i8_lexical": 2141.688777795386,
+      "parse_u128_core": 2050.8626363398753,
+      "parse_u128_lexical": 2012.8371374230462,
+      "parse_u16_core": 1782.1017610357933,
+      "parse_u16_lexical": 1706.447804028577,
+      "parse_u32_core": 1394.2060654680033,
+      "parse_u32_lexical": 1673.9432642937068,
+      "parse_u64_core": 1811.693735803358,
+      "parse_u64_lexical": 1725.8278922131526,
+      "parse_u8_core": 1628.021033413169,
+      "parse_u8_lexical": 1332.5589805176394
+    },
+    "random_simple_int32": {
+      "parse_f32_core": 8673.822576865065,
+      "parse_f32_lexical": 8011.440119449947,
+      "parse_f64_core": 5219.971962266471,
+      "parse_f64_lexical": 5820.088252321657
+    },
+    "random_simple_int64": {
+      "parse_f32_core": 18365.132083019576,
+      "parse_f32_lexical": 14763.912628082418,
+      "parse_f64_core": 18493.97702825322,
+      "parse_f64_lexical": 15806.757631119051
+    },
+    "random_simple_signed": {
+      "parse_i128_core": 1933.9601537164751,
+      "parse_i128_lexical": 2214.374207304064,
+      "parse_i16_core": 2086.776407594677,
+      "parse_i16_lexical": 2198.5175373376032,
+      "parse_i32_core": 2188.7547963451634,
+      "parse_i32_lexical": 1786.5455087749945,
+      "parse_i64_core": 1966.6832643964053,
+      "parse_i64_lexical": 2090.7978631842525,
+      "parse_i8_core": 1820.592437426849,
+      "parse_i8_lexical": 1553.3634463098936
+    },
+    "random_simple_uniform32": {
+      "parse_f32_core": 8629.103904521548,
+      "parse_f32_lexical": 7845.627661200917,
+      "parse_f64_core": 8352.828034871025,
+      "parse_f64_lexical": 8710.444561357113
+    },
+    "random_uniform": {
+      "parse_f32_core": 8804.79890147866,
+      "parse_f32_lexical": 8182.1145510202405,
+      "parse_f64_core": 8077.287920602724,
+      "parse_f64_lexical": 8577.775959973898,
+      "parse_i128_core": 61052.139149292896,
+      "parse_i128_lexical": 37204.440640544446,
+      "parse_i16_core": 3641.7921064701927,
+      "parse_i16_lexical": 2433.902775363055,
+      "parse_i32_core": 5198.629220887941,
+      "parse_i32_lexical": 3881.703778668695,
+      "parse_i64_core": 10608.04334004664,
+      "parse_i64_lexical": 9391.706792882691,
+      "parse_i8_core": 2144.350181466332,
+      "parse_i8_lexical": 1904.0672736005558,
+      "parse_u128_core": 45320.12809701045,
+      "parse_u128_lexical": 31044.016473405856,
+      "parse_u16_core": 3129.1431799480933,
+      "parse_u16_lexical": 2710.5586996774546,
+      "parse_u32_core": 6697.302898353794,
+      "parse_u32_lexical": 4672.357168733122,
+      "parse_u64_core": 13625.563186785323,
+      "parse_u64_lexical": 9401.070444232646,
+      "parse_u8_core": 2143.1704038707003,
+      "parse_u8_lexical": 1472.9525804514587
+    }
+  },
+  "confidence": {
+    "canada": {
+      "parse_canada_core": 0.95,
+      "parse_canada_lexical": 0.95
+    },
+    "contrived_denormal10": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal100": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal1600": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal20": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal200": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal30": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal3200": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal40": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal400": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal50": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal6400": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_denormal800": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_disguised": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_fast": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_halfway": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large10": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large100": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large1600": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large20": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large200": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large30": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large3200": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large40": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large400": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large50": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large6400": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_large800": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "contrived_moderate": {
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "earth": {
+      "parse_earth_core": 0.95,
+      "parse_earth_lexical": 0.95
+    },
+    "json": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "json_random": {
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95,
+      "parse_u128_core": 0.95,
+      "parse_u128_lexical": 0.95,
+      "parse_u16_core": 0.95,
+      "parse_u16_lexical": 0.95,
+      "parse_u32_core": 0.95,
+      "parse_u32_lexical": 0.95,
+      "parse_u64_core": 0.95,
+      "parse_u64_lexical": 0.95,
+      "parse_u8_core": 0.95,
+      "parse_u8_lexical": 0.95
+    },
+    "json_simple": {
+      "parse_u128_core": 0.95,
+      "parse_u128_lexical": 0.95,
+      "parse_u16_core": 0.95,
+      "parse_u16_lexical": 0.95,
+      "parse_u32_core": 0.95,
+      "parse_u32_lexical": 0.95,
+      "parse_u64_core": 0.95,
+      "parse_u64_lexical": 0.95,
+      "parse_u8_core": 0.95,
+      "parse_u8_lexical": 0.95
+    },
+    "mesh": {
+      "parse_mesh_core": 0.95,
+      "parse_mesh_lexical": 0.95
+    },
+    "random_big_ints": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_big_int_dot_int": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_int_e_int": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_large": {
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95,
+      "parse_u128_core": 0.95,
+      "parse_u128_lexical": 0.95,
+      "parse_u16_core": 0.95,
+      "parse_u16_lexical": 0.95,
+      "parse_u32_core": 0.95,
+      "parse_u32_lexical": 0.95,
+      "parse_u64_core": 0.95,
+      "parse_u64_lexical": 0.95,
+      "parse_u8_core": 0.95,
+      "parse_u8_lexical": 0.95
+    },
+    "random_large_signed": {
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95
+    },
+    "random_one_over_rand32": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_simple": {
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95,
+      "parse_u128_core": 0.95,
+      "parse_u128_lexical": 0.95,
+      "parse_u16_core": 0.95,
+      "parse_u16_lexical": 0.95,
+      "parse_u32_core": 0.95,
+      "parse_u32_lexical": 0.95,
+      "parse_u64_core": 0.95,
+      "parse_u64_lexical": 0.95,
+      "parse_u8_core": 0.95,
+      "parse_u8_lexical": 0.95
+    },
+    "random_simple_int32": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_simple_int64": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_simple_signed": {
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95
+    },
+    "random_simple_uniform32": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95
+    },
+    "random_uniform": {
+      "parse_f32_core": 0.95,
+      "parse_f32_lexical": 0.95,
+      "parse_f64_core": 0.95,
+      "parse_f64_lexical": 0.95,
+      "parse_i128_core": 0.95,
+      "parse_i128_lexical": 0.95,
+      "parse_i16_core": 0.95,
+      "parse_i16_lexical": 0.95,
+      "parse_i32_core": 0.95,
+      "parse_i32_lexical": 0.95,
+      "parse_i64_core": 0.95,
+      "parse_i64_lexical": 0.95,
+      "parse_i8_core": 0.95,
+      "parse_i8_lexical": 0.95,
+      "parse_u128_core": 0.95,
+      "parse_u128_lexical": 0.95,
+      "parse_u16_core": 0.95,
+      "parse_u16_lexical": 0.95,
+      "parse_u32_core": 0.95,
+      "parse_u32_lexical": 0.95,
+      "parse_u64_core": 0.95,
+      "parse_u64_lexical": 0.95,
+      "parse_u8_core": 0.95,
+      "parse_u8_lexical": 0.95
+    }
+  },
+  "std_dev": {
+    "canada": {
+      "parse_canada_core": 27533.03097169184,
+      "parse_canada_lexical": 20498.68649607013
+    },
+    "contrived_denormal10": {
+      "parse_f64_core": 0.06515179776213866,
+      "parse_f64_lexical": 0.14876077879456423
+    },
+    "contrived_denormal100": {
+      "parse_f64_core": 119.57976208426076,
+      "parse_f64_lexical": 1.6610835707724854
+    },
+    "contrived_denormal1600": {
+      "parse_f64_core": 85.5356009899303,
+      "parse_f64_lexical": 19.66714802483514
+    },
+    "contrived_denormal20": {
+      "parse_f64_core": 0.07669433788061361,
+      "parse_f64_lexical": 0.16202879945524556
+    },
+    "contrived_denormal200": {
+      "parse_f64_core": 94.37810165881959,
+      "parse_f64_lexical": 3.0791445501508434
+    },
+    "contrived_denormal30": {
+      "parse_f64_core": 38.42053284290137,
+      "parse_f64_lexical": 1.5591947110180133
+    },
+    "contrived_denormal3200": {
+      "parse_f64_core": 113.16903644904176,
+      "parse_f64_lexical": 22.454673984481833
+    },
+    "contrived_denormal40": {
+      "parse_f64_core": 34.26188050906698,
+      "parse_f64_lexical": 1.4394981792452017
+    },
+    "contrived_denormal400": {
+      "parse_f64_core": 137.04880600163506,
+      "parse_f64_lexical": 5.515406033884891
+    },
+    "contrived_denormal50": {
+      "parse_f64_core": 36.802795876838715,
+      "parse_f64_lexical": 1.5885662193562504
+    },
+    "contrived_denormal6400": {
+      "parse_f64_core": 100.32626968714774,
+      "parse_f64_lexical": 13.984331024029014
+    },
+    "contrived_denormal800": {
+      "parse_f64_core": 62.484758868513005,
+      "parse_f64_lexical": 13.175876069449082
+    },
+    "contrived_disguised": {
+      "parse_f64_core": 0.09238028893660379,
+      "parse_f64_lexical": 0.10615794276154542
+    },
+    "contrived_fast": {
+      "parse_f64_core": 0.15343081964815652,
+      "parse_f64_lexical": 0.05774727270724604
+    },
+    "contrived_halfway": {
+      "parse_f64_core": 0.11000623331438728,
+      "parse_f64_lexical": 0.05412615544700314
+    },
+    "contrived_large10": {
+      "parse_f64_core": 0.33763905582133413,
+      "parse_f64_lexical": 0.09893705366294755
+    },
+    "contrived_large100": {
+      "parse_f64_core": 151.6049588059515,
+      "parse_f64_lexical": 1.1336207504577815
+    },
+    "contrived_large1600": {
+      "parse_f64_core": 36.762127801154456,
+      "parse_f64_lexical": 10.366605607899539
+    },
+    "contrived_large20": {
+      "parse_f64_core": 0.17957100145957705,
+      "parse_f64_lexical": 0.17686302153547157
+    },
+    "contrived_large200": {
+      "parse_f64_core": 215.7703611743098,
+      "parse_f64_lexical": 2.1805074363014545
+    },
+    "contrived_large30": {
+      "parse_f64_core": 134.48448054358585,
+      "parse_f64_lexical": 1.554909509412131
+    },
+    "contrived_large3200": {
+      "parse_f64_core": 66.63353159077947,
+      "parse_f64_lexical": 20.10277388482456
+    },
+    "contrived_large40": {
+      "parse_f64_core": 56.62197822745805,
+      "parse_f64_lexical": 1.391192068537
+    },
+    "contrived_large400": {
+      "parse_f64_core": 27.585954411546595,
+      "parse_f64_lexical": 3.5238004038523116
+    },
+    "contrived_large50": {
+      "parse_f64_core": 225.063376428206,
+      "parse_f64_lexical": 1.0951780833303615
+    },
+    "contrived_large6400": {
+      "parse_f64_core": 62.69904750691013,
+      "parse_f64_lexical": 15.20306280695427
+    },
+    "contrived_large800": {
+      "parse_f64_core": 39.688502886280745,
+      "parse_f64_lexical": 8.48886694128142
+    },
+    "contrived_moderate": {
+      "parse_f64_core": 0.06780224407577615,
+      "parse_f64_lexical": 0.04377626282280042
+    },
+    "earth": {
+      "parse_earth_core": 21746.307254220166,
+      "parse_earth_lexical": 16999.81011346077
+    },
+    "json": {
+      "parse_f32_core": 3362.392958585054,
+      "parse_f32_lexical": 6488.702506054916,
+      "parse_f64_core": 4999.965794668437,
+      "parse_f64_lexical": 4875.115598886132
+    },
+    "json_random": {
+      "parse_i128_core": 6473.3096754552635,
+      "parse_i128_lexical": 5356.4321463083925,
+      "parse_i16_core": 1190.8652042172964,
+      "parse_i16_lexical": 1252.3948363964944,
+      "parse_i32_core": 1384.6608802870576,
+      "parse_i32_lexical": 1215.1711927474062,
+      "parse_i64_core": 2479.7181108058558,
+      "parse_i64_lexical": 4333.775367245338,
+      "parse_i8_core": 1867.5187116089241,
+      "parse_i8_lexical": 1323.124196560343,
+      "parse_u128_core": 5166.00433401335,
+      "parse_u128_lexical": 3123.5077283004935,
+      "parse_u16_core": 680.0418541569658,
+      "parse_u16_lexical": 835.9500641678839,
+      "parse_u32_core": 1183.2911668700901,
+      "parse_u32_lexical": 1587.8814106975703,
+      "parse_u64_core": 3384.0823296270823,
+      "parse_u64_lexical": 5771.1705089917405,
+      "parse_u8_core": 696.2139006882625,
+      "parse_u8_lexical": 474.75005117986547
+    },
+    "json_simple": {
+      "parse_u128_core": 638.785047027774,
+      "parse_u128_lexical": 785.9055682502603,
+      "parse_u16_core": 341.32984594763536,
+      "parse_u16_lexical": 480.19334912604205,
+      "parse_u32_core": 583.4241752578903,
+      "parse_u32_lexical": 541.5793448222261,
+      "parse_u64_core": 392.6162079205557,
+      "parse_u64_lexical": 400.57000038369296,
+      "parse_u8_core": 251.40231427340441,
+      "parse_u8_lexical": 457.89770706259367
+    },
+    "mesh": {
+      "parse_mesh_core": 3934.6406854940915,
+      "parse_mesh_lexical": 5756.8641878714225
+    },
+    "random_big_ints": {
+      "parse_f32_core": 403.05664688527787,
+      "parse_f32_lexical": 305.72225448482794,
+      "parse_f64_core": 378.2754296638737,
+      "parse_f64_lexical": 286.4690692196067
+    },
+    "random_big_int_dot_int": {
+      "parse_f32_core": 263.8733065844437,
+      "parse_f32_lexical": 174.93666544020206,
+      "parse_f64_core": 131.57873682811766,
+      "parse_f64_lexical": 158.26990677674596
+    },
+    "random_int_e_int": {
+      "parse_f32_core": 115.36161925900323,
+      "parse_f32_lexical": 109.66840772937915,
+      "parse_f64_core": 163.2183974718462,
+      "parse_f64_lexical": 134.89613336027503
+    },
+    "random_large": {
+      "parse_i128_core": 1193.6941046343943,
+      "parse_i128_lexical": 353.4727112969344,
+      "parse_i16_core": 49.99400862426041,
+      "parse_i16_lexical": 36.933987889489224,
+      "parse_i32_core": 82.36223722745498,
+      "parse_i32_lexical": 134.98142273251233,
+      "parse_i64_core": 173.0309064911892,
+      "parse_i64_lexical": 109.82176578481285,
+      "parse_i8_core": 19.350618910583115,
+      "parse_i8_lexical": 19.00717340331135,
+      "parse_u128_core": 530.5110886318771,
+      "parse_u128_lexical": 341.35995313124505,
+      "parse_u16_core": 26.99221342063037,
+      "parse_u16_lexical": 35.31605697133125,
+      "parse_u32_core": 72.22579492211011,
+      "parse_u32_lexical": 116.26400518540181,
+      "parse_u64_core": 159.92331784494561,
+      "parse_u64_lexical": 169.9488668306623,
+      "parse_u8_core": 40.92748817431016,
+      "parse_u8_lexical": 23.587441761942124
+    },
+    "random_large_signed": {
+      "parse_i128_core": 714.8569898840095,
+      "parse_i128_lexical": 420.2270271013753,
+      "parse_i16_core": 111.40571052387223,
+      "parse_i16_lexical": 50.90805827239087,
+      "parse_i32_core": 79.46078902832582,
+      "parse_i32_lexical": 166.57225910905854,
+      "parse_i64_core": 77.08972851569484,
+      "parse_i64_lexical": 144.2863147731206,
+      "parse_i8_core": 28.554299712971385,
+      "parse_i8_lexical": 9.806130444507458
+    },
+    "random_one_over_rand32": {
+      "parse_f32_core": 109.37037624328073,
+      "parse_f32_lexical": 127.58393051349657,
+      "parse_f64_core": 222.49575112452266,
+      "parse_f64_lexical": 164.63664969410877
+    },
+    "random_simple": {
+      "parse_i128_core": 57.72763810085638,
+      "parse_i128_lexical": 26.095892261980456,
+      "parse_i16_core": 70.44722418635222,
+      "parse_i16_lexical": 67.09672271326215,
+      "parse_i32_core": 46.109666099272026,
+      "parse_i32_lexical": 25.053072240618608,
+      "parse_i64_core": 14.687864434583018,
+      "parse_i64_lexical": 36.69852499827673,
+      "parse_i8_core": 49.522861215769346,
+      "parse_i8_lexical": 45.93859020969831,
+      "parse_u128_core": 32.276231068416614,
+      "parse_u128_lexical": 37.52572424574095,
+      "parse_u16_core": 17.269015078399732,
+      "parse_u16_lexical": 37.52109242964196,
+      "parse_u32_core": 12.471258639721047,
+      "parse_u32_lexical": 81.13297313550434,
+      "parse_u64_core": 23.09490844517845,
+      "parse_u64_lexical": 18.177625133470116,
+      "parse_u8_core": 21.52821336481267,
+      "parse_u8_lexical": 15.283224173763408
+    },
+    "random_simple_int32": {
+      "parse_f32_core": 80.07245883176304,
+      "parse_f32_lexical": 112.74462174256288,
+      "parse_f64_core": 31.563016533397107,
+      "parse_f64_lexical": 38.506588108829604
+    },
+    "random_simple_int64": {
+      "parse_f32_core": 329.3315248910178,
+      "parse_f32_lexical": 194.93613079894286,
+      "parse_f64_core": 233.0584652544688,
+      "parse_f64_lexical": 159.9348174822483
+    },
+    "random_simple_signed": {
+      "parse_i128_core": 15.128262993056095,
+      "parse_i128_lexical": 54.19011693433969,
+      "parse_i16_core": 34.238212423289845,
+      "parse_i16_lexical": 26.02581151823912,
+      "parse_i32_core": 45.3949054995235,
+      "parse_i32_lexical": 23.928948243000605,
+      "parse_i64_core": 19.59465175725715,
+      "parse_i64_lexical": 34.61889555886913,
+      "parse_i8_core": 24.60570637992631,
+      "parse_i8_lexical": 50.35759584109976
+    },
+    "random_simple_uniform32": {
+      "parse_f32_core": 75.47382746138466,
+      "parse_f32_lexical": 75.86801511657535,
+      "parse_f64_core": 165.6427166479291,
+      "parse_f64_lexical": 108.75133983147711
+    },
+    "random_uniform": {
+      "parse_f32_core": 175.78857034719786,
+      "parse_f32_lexical": 370.2974734079763,
+      "parse_f64_core": 86.6539938445548,
+      "parse_f64_lexical": 83.51174338890937,
+      "parse_i128_core": 850.7044448208231,
+      "parse_i128_lexical": 334.4847998561904,
+      "parse_i16_core": 59.411307638932584,
+      "parse_i16_lexical": 34.25409628678047,
+      "parse_i32_core": 66.3055535723655,
+      "parse_i32_lexical": 123.91712616358312,
+      "parse_i64_core": 176.4628670530005,
+      "parse_i64_lexical": 199.84715361994498,
+      "parse_i8_core": 37.12158829517157,
+      "parse_i8_lexical": 42.198066174469595,
+      "parse_u128_core": 481.75546626418054,
+      "parse_u128_lexical": 430.4992834948199,
+      "parse_u16_core": 22.43197207422564,
+      "parse_u16_lexical": 24.43850766268194,
+      "parse_u32_core": 58.02469272026846,
+      "parse_u32_lexical": 130.29226810813674,
+      "parse_u64_core": 138.25475362468268,
+      "parse_u64_lexical": 98.7329291160581,
+      "parse_u8_core": 24.850695272316432,
+      "parse_u8_lexical": 33.38669977998706
+    }
+  }
+}
