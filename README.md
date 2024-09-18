@@ -163,3 +163,272 @@ The plots are each will be in the `plot` subdirectory, for example, under `resul
 **Random Big Integers - Write Float**
 
 ![random_big_ints - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_big_ints%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+
+## Latest Results
+
+The latest result is for commit [da4728e](https://github.com/Alexhuszagh/rust-lexical/tree/da4728e).
+
+### Benchmarks — Parse Integer
+
+**Json_Random:**
+
+![json_random - parse int - core,lexical.png](/results/da4728e/plot/json_random%20-%20parse%20int%20-%20core,lexical.png)
+
+**Json_Simple:**
+
+![json_simple - parse int - core,lexical.png](/results/da4728e/plot/json_simple%20-%20parse%20int%20-%20core,lexical.png)
+
+**Random_Large:**
+
+![random_large - parse int - core,lexical.png](/results/da4728e/plot/random_large%20-%20parse%20int%20-%20core,lexical.png)
+
+**Random_Large_Signed:**
+
+![random_large_signed - parse int - core,lexical.png](/results/da4728e/plot/random_large_signed%20-%20parse%20int%20-%20core,lexical.png)
+
+**Random_Simple:**
+
+![random_simple - parse int - core,lexical.png](/results/da4728e/plot/random_simple%20-%20parse%20int%20-%20core,lexical.png)
+
+**Random_Simple_Signed:**
+
+![random_simple_signed - parse int - core,lexical.png](/results/da4728e/plot/random_simple_signed%20-%20parse%20int%20-%20core,lexical.png)
+
+**Random_Uniform:**
+
+![random_uniform - parse int - core,lexical.png](/results/da4728e/plot/random_uniform%20-%20parse%20int%20-%20core,lexical.png)
+
+### Benchmarks — Parse Float
+
+**Canada:**
+
+![canada - parse float - core,lexical.png](/results/da4728e/plot/canada%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal10:**
+
+![contrived_denormal10 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal10%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal100:**
+
+![contrived_denormal100 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal100%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal1600:**
+
+![contrived_denormal1600 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal1600%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal20:**
+
+![contrived_denormal20 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal20%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal200:**
+
+![contrived_denormal200 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal200%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal30:**
+
+![contrived_denormal30 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal30%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal3200:**
+
+![contrived_denormal3200 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal3200%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal40:**
+
+![contrived_denormal40 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal40%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal400:**
+
+![contrived_denormal400 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal400%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal50:**
+
+![contrived_denormal50 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal50%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal6400:**
+
+![contrived_denormal6400 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal6400%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Denormal800:**
+
+![contrived_denormal800 - parse float - core,lexical.png](/results/da4728e/plot/contrived_denormal800%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Disguised:**
+
+![contrived_disguised - parse float - core,lexical.png](/results/da4728e/plot/contrived_disguised%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Fast:**
+
+![contrived_fast - parse float - core,lexical.png](/results/da4728e/plot/contrived_fast%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Halfway:**
+
+![contrived_halfway - parse float - core,lexical.png](/results/da4728e/plot/contrived_halfway%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large10:**
+
+![contrived_large10 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large10%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large100:**
+
+![contrived_large100 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large100%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large1600:**
+
+![contrived_large1600 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large1600%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large20:**
+
+![contrived_large20 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large20%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large200:**
+
+![contrived_large200 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large200%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large30:**
+
+![contrived_large30 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large30%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large3200:**
+
+![contrived_large3200 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large3200%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large40:**
+
+![contrived_large40 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large40%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large400:**
+
+![contrived_large400 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large400%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large50:**
+
+![contrived_large50 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large50%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large6400:**
+
+![contrived_large6400 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large6400%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Large800:**
+
+![contrived_large800 - parse float - core,lexical.png](/results/da4728e/plot/contrived_large800%20-%20parse%20float%20-%20core,lexical.png)
+
+**Contrived Moderate:**
+
+![contrived_moderate - parse float - core,lexical.png](/results/da4728e/plot/contrived_moderate%20-%20parse%20float%20-%20core,lexical.png)
+
+**Earth:**
+
+![earth - parse float - core,lexical.png](/results/da4728e/plot/earth%20-%20parse%20float%20-%20core,lexical.png)
+
+**Json:**
+
+![json - parse float - core,lexical.png](/results/da4728e/plot/json%20-%20parse%20float%20-%20core,lexical.png)
+
+**Mesh:**
+
+![mesh - parse float - core,lexical.png](/results/da4728e/plot/mesh%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Big Int Dot Int:**
+
+![random_big_int_dot_int - parse float - core,lexical.png](/results/da4728e/plot/random_big_int_dot_int%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Big Ints:**
+
+![random_big_ints - parse float - core,lexical.png](/results/da4728e/plot/random_big_ints%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Int E Int:**
+
+![random_int_e_int - parse float - core,lexical.png](/results/da4728e/plot/random_int_e_int%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random One Over Rand32:**
+
+![random_one_over_rand32 - parse float - core,lexical.png](/results/da4728e/plot/random_one_over_rand32%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Simple Int32:**
+
+![random_simple_int32 - parse float - core,lexical.png](/results/da4728e/plot/random_simple_int32%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Simple Int64:**
+
+![random_simple_int64 - parse float - core,lexical.png](/results/da4728e/plot/random_simple_int64%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Simple Uniform32:**
+
+![random_simple_uniform32 - parse float - core,lexical.png](/results/da4728e/plot/random_simple_uniform32%20-%20parse%20float%20-%20core,lexical.png)
+
+**Random Uniform:**
+
+![random_uniform - parse float - core,lexical.png](/results/da4728e/plot/random_uniform%20-%20parse%20float%20-%20core,lexical.png)
+
+### Benchmarks — Write Integer
+
+**Json Chain Random:**
+
+![json_chain_random - write int - fmt,itoa,lexical.png](/results/da4728e/plot/json_chain_random%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Json Random:**
+
+![json_random - write int - fmt,itoa,lexical.png](/results/da4728e/plot/json_random%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Json Simple:**
+
+![json_simple - write int - fmt,itoa,lexical.png](/results/da4728e/plot/json_simple%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Large:**
+
+![random_large - write int - fmt,itoa,lexical.png](/results/da4728e/plot/random_large%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Large Signed:**
+
+![random_large_signed - write int - fmt,itoa,lexical.png](/results/da4728e/plot/random_large_signed%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Simple:**
+
+![random_simple - write int - fmt,itoa,lexical.png](/results/da4728e/plot/random_simple%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Simple Signed:**
+
+![random_simple_signed - write int - fmt,itoa,lexical.png](/results/da4728e/plot/random_simple_signed%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Uniform:**
+
+![random_uniform - write int - fmt,itoa,lexical.png](/results/da4728e/plot/random_uniform%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+### Benchmarks — Write Float
+
+**Json:**
+
+![json - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/json%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Big Int Dot Int:**
+
+![random_big_int_dot_int - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_big_int_dot_int%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Big Ints:**
+
+![random_big_ints - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_big_ints%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random One Over Rand32:**
+
+![random_one_over_rand32 - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_one_over_rand32%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Simple Int32:**
+
+![random_simple_int32 - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_simple_int32%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Simple Int64:**
+
+![random_simple_int64 - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_simple_int64%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Simple Uniform32:**
+
+![random_simple_uniform32 - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_simple_uniform32%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Special:**
+
+![random_special - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_special%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
+
+**Random Uniform:**
+
+![random_uniform - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_uniform%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
