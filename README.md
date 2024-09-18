@@ -16,9 +16,11 @@ The diagnostics can then be exported using the [flatbench](/flatbench.py) and [m
 
 ```bash
 # this is the directory to where the rust benchmark data is
-target=../rust-lexical/lexical-benchmark/target
+repository="../rust-lexical"
+target="${repository}/lexical-benchmark/target"
 python flatbench.py --target "${target}"
 python metadata.py --target "${target}"
+python plot.py --repository "${repository}"
 ```
 
 ## Results
@@ -26,6 +28,8 @@ python metadata.py --target "${target}"
 The data will be output in the [results](/results/) directory with each result in a directory containing the shorthash of the file. For example, for commit `9b7cac6`, the results are stored under `results/9b7cac6`.
 
 An example of the profiling info is below. This contains the mean benchmark, the upper and lower bound, and the confidence, all grouped by the bench groups and the benchmark name. The results are in nanoseconds.
+
+### Raw Benchmarks
 
 ```json
 {
@@ -139,3 +143,23 @@ An example of the metadata is:
   }
 }
 ```
+
+### Plots
+
+The plots are each will be in the `plot` subdirectory, for example, under `results/da4728e/plot` for commit `da4728e`. Examples from this benchmark include:
+
+**JSON Simple - Parse Integer**
+
+![json_random - parse int - core,lexical.png](/results/da4728e/plot/json_random%20-%20parse%20int%20-%20core,lexical.png)
+
+**Earth - Parse Float**
+
+![earth - parse float - core,lexical.png](/results/da4728e/plot/earth%20-%20parse%20float%20-%20core,lexical.png)
+
+**JSON Simple - Write Integer**
+
+![json_simple - write int - fmt,itoa,lexical.png](/results/da4728e/plot/json_simple%20-%20write%20int%20-%20fmt,itoa,lexical.png)
+
+**Random Big Integers - Write Float**
+
+![random_big_ints - write float - dtoa,fmt,lexical,ryu.png](/results/da4728e/plot/random_big_ints%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
