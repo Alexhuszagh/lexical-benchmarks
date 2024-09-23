@@ -45,9 +45,10 @@ parser.add_argument(
     default='base',
 )
 args = parser.parse_args()
+commit = shared.get_commit(str(args.target.parent))
 if args.output is None:
-    commit = shared.get_commit(str(args.target.parent))
-    args.output = Path(f'{home}/results/{commit}')
+    args.output = Path(f'{home}/results')
+args.output /= commit
 args.output.mkdir(exist_ok=True, parents=True)
 
 # the structure is:

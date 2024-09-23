@@ -49,9 +49,11 @@ parser.add_argument(
     default='base',
 )
 args = parser.parse_args()
+commit = shared.get_commit(str(args.target.parent))
 if args.output is None:
-    commit = shared.get_commit(str(args.target.parent))
-    args.output = Path(f'{home}/results/{commit}/flatbench.json')
+    args.output = Path(f'{home}/results')
+args.output /= commit
+args.output /= 'flatbench.json'
 args.output.parent.mkdir(exist_ok=True, parents=True)
 
 # the structure is:
@@ -82,5 +84,5 @@ for group, items in results.items():
         profiling['confidence'][group][name] = mean_ci['confidence_level']
         profiling['std_dev'][group][name] = std_dev['point_estimate']
 
-with open(args.target / args.output, 'w', encoding='utf-8') as fp:
+with open(args.output, 'w', encoding='utf-8') as fp:
     json.dump(profiling, fp, indent=2)

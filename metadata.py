@@ -53,7 +53,9 @@ parser.add_argument(
 args = parser.parse_args()
 commit = shared.get_commit(str(args.target.parent))
 if args.output is None:
-    args.output = Path(f'{home}/results/{commit}/metadata.json')
+    args.output = Path(f'{home}/results')
+args.output /= commit
+args.output /= 'metadata.json'
 args.output.parent.mkdir(exist_ok=True, parents=True)
 
 metadata = {}
