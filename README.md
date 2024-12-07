@@ -428,7 +428,3 @@ The latest result is for commit [8db6b84](https://github.com/Alexhuszagh/rust-le
 **Random Special:**
 
 ![random_special - write float - dtoa,fmt,lexical,ryu.png](/results/8db6b84/plot/random_special%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
-
-**Random Uniform:**
-
-![random_uniform - write float - dtoa,fmt,lexical,ryu.png](/results/8db6b84/plot/random_uniform%20-%20write%20float%20-%20dtoa,fmt,lexical,ryu.png)
