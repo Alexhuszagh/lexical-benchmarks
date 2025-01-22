@@ -283,9 +283,16 @@ def plot_libraries(commit: str) -> None:
             title = group.title().replace('_', ' ')
             title = f'{title} — {type.title()} {num_type.title()}'
             filename = f'{group} - {type} {num_type} - {",".join(labels)}.png'
+
+            # plot commit
             path = args.output / commit / 'plot' / filename
             path.parent.mkdir(exist_ok=True, parents=True)
             plot(values, labels, ticks, title, path)
+
+            # plot latest
+            latest = args.output / 'latest' / 'plot' / filename
+            latest.parent.mkdir(exist_ok=True, parents=True)
+            plot(values, labels, ticks, title, latest)
 
 
 def plot_commits(library: str, commits: Sequence[str]) -> None:
